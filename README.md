@@ -1,3 +1,1 @@
-# Fluffy World #
-## Shape Mesh Test Task ##
-### Unity Mini Arcade Game ###
+# **Fluffy World** - The shape-mesh Unity arcade game #
